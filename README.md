@@ -1,4 +1,4 @@
-# somali-youth-global-challenges
+# Somali-youth-global-challenges
 
 # Breaking Barriers: Addressing Systemic Challenges Faced by Somali Youth on the Global Stage
 
