@@ -73,7 +73,7 @@ For decades, Somali youth have displayed remarkable resilience and creativity de
 
 ## 1. Digital and Business Platform Exclusion
 
-Inaccessible platforms like PayPal, YouTube Partner Program, and Amazon Affiliates.
+Inaccessible platforms like PayPal, Amazon's affiliate program, YouTube Partner Program, Google AdSense, Facebook Marketplace, Spotify, Apple Services and many more.
 
 Exclusion from global freelance markets (e.g., Upwork, Fiverr).
 
