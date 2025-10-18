@@ -153,7 +153,9 @@ The story of Somali youth is not one of despair. It’s a story of **untapped po
 
 ### **About the Author**
 
-**Said A. Ibrahim** Software Engineer| AI Solutions Developer
+**Said A. Ibrahim**
+
+Software Engineer| AI Solutions Developer
 
 Advocate for Somali youth empowerment through technology and innovation.
 
